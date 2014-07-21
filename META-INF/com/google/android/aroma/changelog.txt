@@ -1,0 +1,8 @@
+<@center><b>Recovery Switcher 1.0.0</b></@>
+<@center><b>APR 24 2014</b></@>
+<*>Official TWRP Recovery</*>
+<*>Official PhilZ Touch 6.26.6</*>
+<*>Unofficial TWRP Recovery</*>
+<*>Unofficial ClockworkMod Touch</*>
+<*>Unofficial ClockworkMod Non Touch</*>
+<*>Unofficial PhilZ Touch</*>

@@ -1,0 +1,6 @@
+<@center><b>Recovery In Here/BuildNumber</b></@>
+<*>Official PhilZ Touch 6.26.6</*>
+<*>Official TWRP Recovery 2.6.0.0</*>
+<*>Unofficial TWRP Recovery 2.6.3.3 </*>
+<*>Unofficial ClockworkMod Non-Touch 6.0.4.6</*>
+<*>Unofficial PhilZ Touch 6.09.6</*>
